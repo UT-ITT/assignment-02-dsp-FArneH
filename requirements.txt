@@ -1,0 +1,4 @@
+sounddevice==0.5.5
+numpy==2.4.4
+pyglet==2.1.14
+pynput==1.8.1
